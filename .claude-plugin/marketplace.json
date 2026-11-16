@@ -1,0 +1,5 @@
+{
+  "name": "mods-beg",
+  "owner": { "name": "BEG" },
+  "plugins": [{ "name": "clawds", "source": "./" }]
+}
